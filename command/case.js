@@ -1,6 +1,6 @@
 /*
 # Haruka - UserBot
-# Copyright (C) 2021 Haruka-Bot Created By ZeeoneOfc
+# Copyright (C) 2021 Cristal-BotV3 Created By TegarXD
 #
 # This file is a part of < https://github.com/zeeoneofc/Haruka/ >
 # PLease read the GNU Affero General Public License in
